@@ -90,13 +90,18 @@ This is a full-stack e-commerce website built for selling stationary products. T
    ```
 3. Install dependencies:
 
-````bash
+```bash
 npm install
+```
+
 4. Start the development server:
+
 ```bash
 npm start
+```
 
 ## Usage
+
 - User
 - Browse products, add to cart, and proceed to checkout.
 - Log in to access the dashboard, view orders, and update profile.
@@ -106,5 +111,4 @@ npm start
 
 ## Live Demo
 
-Check out the live demo of the website [here](https://stationaary.vercel.app/).
-````
+Check out the live demo of the website [https://stationaary.vercel.app/](https://stationaary.vercel.app/).
